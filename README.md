@@ -1,8 +1,9 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 #add name Haocheng
+
 #add haocheng1
 # DTU Course 02502 Image Analysis
-
+#add New meg main
 An introductory course to image analysis at the [Technical University of Denmark](https://www.dtu.dk/).
 
 This repository contains exercises and data for the DTU course [02502 Image Analysis](http://courses.compute.dtu.dk/02502/)
